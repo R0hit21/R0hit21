@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R0hit21
 - 👀 I’m interested in AIOps,FinOps.
-- 🌱 I’m currently Workingas a DevOps Engineer.
+- 🌱 I’m currently Working as a DevOps Engineer.
 - 📫 How to reach me rohitmanjare21@gmail.com
 
 <!---
